@@ -58,18 +58,18 @@ categories:
 
 ## PS使用
 ### 快捷键
-> Ctrl + h 显示/隐藏参考线 
-> Alt + 鼠标 缩放 
-> 空格 + 鼠标 移动  
-> 新建图形文件【Ctrl】+【N】  
-> 新建图层【Ctrl】+【Shift】+【N】  
-> 反向选择 【Ctrl】+【Shift】+【I】 
-> 还原两步以上操作 【Ctrl】+【Alt】+【Z】 
-> 剪切选取的图像或路径 【Ctrl】+【X】或【F2】  
-> 从对话框新建一个图层 【Ctrl】+【Shift】+【N】 
-> 以默认选项建立一个新的图层 【Ctrl】+【Alt】+【Shift】+【N】  
-> 通过拷贝建立一个图层 【Ctrl】+【J】 
-> 通过剪切建立一个图层 【Ctrl】+【Shift】+【J】 
-> ctrl+d-取消选定区域 
-> ctrl+w-关闭文件 
-> ctrl+Q-退出ps 
+> Ctrl + h 显示/隐藏参考线     
+> Alt + 鼠标 缩放     
+> 空格 + 鼠标 移动        
+> 新建图形文件【Ctrl】+【N】     
+> 新建图层【Ctrl】+【Shift】+【N】      
+> 反向选择 【Ctrl】+【Shift】+【I】     
+> 还原两步以上操作 【Ctrl】+【Alt】+【Z】     
+> 剪切选取的图像或路径 【Ctrl】+【X】或【F2】      
+> 从对话框新建一个图层 【Ctrl】+【Shift】+【N】     
+> 以默认选项建立一个新的图层 【Ctrl】+【Alt】+【Shift】+【N】      
+> 通过拷贝建立一个图层 【Ctrl】+【J】     
+> 通过剪切建立一个图层 【Ctrl】+【Shift】+【J】     
+> ctrl+d-取消选定区域     
+> ctrl+w-关闭文件     
+> ctrl+Q-退出ps     
