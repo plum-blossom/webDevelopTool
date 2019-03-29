@@ -55,6 +55,8 @@ categories:
 ### 前端开发工具辅助总卷：https://www.jianshu.com/p/6e635191205a
 ### Markdown 语法整理大集合2017 - 简书：https://www.jianshu.com/p/b03a8d7b1719
 
+[在线gif制作工具](http://www.matools.com/gif)
+
 
 ## PS使用
 ### 快捷键
