@@ -19,6 +19,7 @@ categories:
 * [Iconfont-阿里巴巴矢量图标库](https://www.iconfont.cn/)	
 * [fontawesome图标在线查询](http://www.bejson.com/ui/fontawesome/)	
 * [fontawesome矢量图标库](https://fontawesome.com/icons?from=io)	
+* [fontawesome中文文档](http://www.fontawesome.com.cn/)	
 * [在线代码编译器](http://www.bejson.com/pages/cooleditor/)	
 * [在线正则表达式](http://tool.chinaz.com/tools/regexgenerate/)	
 * [在线生成指定大小、格式(支持webp)的图片](http://www.bejson.com/ui/imagehandler/)	
@@ -43,6 +44,22 @@ categories:
 ## jQuery插件
 ### jQuery左右箭头和鼠标控制的板块滚动
 [demo](http://www.jq22.com/demo/jQuery-hk-150407214616/)
+![图片描述文字](leftrightMove.png)
+### jQuery放大镜插件		
+[demo1](http://www.jq22.com/demo/demo2jQzoom-141021091548/)
+![图片描述文字](fangdajing.png)
+[demo2](http://www.jq22.com/demo/jQuery-Zoom20160322/)
+![图片描述文字](fangdajing2.png)
+[demo3](http://www.jq22.com/demo/jQueryJpg201708110048/)
+![图片描述文字](fangdajing3.png)
+### 红包雨特效		
+[demo](http://www.jq22.com/demo/jqueryhby201811150953/)		
+![图片描述文字](hongbao1.png)
+![图片描述文字](hongbao.png)
+###　图片放大插件		
+[elevateZoom中文文档](https://www.myfreax.com/elevatezoom-image-zoom/)  
+[demo](https://demo.demohuo.top/jquery/5/521/demo/)
+![图片描述文字](imgsuofang.png)
 ## 兼容
 ### IE6-8不支持CSS3 Media Queries解决：https://www.bootcdn.cn/respond.js/
 ### IE9以下不支持h5解决：
