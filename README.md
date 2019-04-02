@@ -47,8 +47,8 @@ categories:
 ![图片描述文字](leftrightMove.png)
 
 ### jQuery放大镜插件  		
-[demo1](http://www.jq22.com/demo/demo2jQzoom-141021091548/)  		
-![图片描述文字](fangdajing.png)  
+[demo1](http://www.jq22.com/demo/demo2jQzoom-141021091548/)   		
+![图片描述文字](fangdajing.png)   
 [demo2](http://www.jq22.com/demo/jQuery-Zoom20160322/)
 ![图片描述文字](fangdajing2.png)
 [demo3](http://www.jq22.com/demo/jQueryJpg201708110048/)
@@ -57,7 +57,7 @@ categories:
 [demo](http://www.jq22.com/demo/jqueryhby201811150953/)		
 ![图片描述文字](hongbao1.png)
 ![图片描述文字](hongbao.png)
-###　图片放大插件		
+### 图片放大插件		
 [elevateZoom中文文档](https://www.myfreax.com/elevatezoom-image-zoom/)  
 [demo](https://demo.demohuo.top/jquery/5/521/demo/)
 ![图片描述文字](imgsuofang.png)
