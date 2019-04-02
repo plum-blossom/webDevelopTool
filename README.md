@@ -46,7 +46,7 @@ categories:
 [demo](http://www.jq22.com/demo/jQuery-hk-150407214616/)
 ![图片描述文字](leftrightMove.png)
 ### jQuery放大镜插件		
-[demo1](http://www.jq22.com/demo/demo2jQzoom-141021091548/)
+[demo1](http://www.jq22.com/demo/demo2jQzoom-141021091548/)		
 ![图片描述文字](fangdajing.png)
 [demo2](http://www.jq22.com/demo/jQuery-Zoom20160322/)
 ![图片描述文字](fangdajing2.png)
