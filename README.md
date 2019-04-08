@@ -23,6 +23,7 @@ categories:
 * [在线代码编译器](http://www.bejson.com/pages/cooleditor/)	
 * [在线正则表达式](http://tool.chinaz.com/tools/regexgenerate/)	
 * [在线生成指定大小、格式(支持webp)的图片](http://www.bejson.com/ui/imagehandler/)	
+* [在线图片格式转换](http://www.bejson.com/convert/picture_format/)	
 * [Html/MarkDown互转工具](http://www.bejson.com/convert/html2markdown/)	
 
 ## CSS在线工具
@@ -93,3 +94,10 @@ categories:
 > ctrl+d-取消选定区域     
 > ctrl+w-关闭文件     
 > ctrl+Q-退出ps     
+## 前端面试准备
+### 参考链接
+[前端面试知识点目录整理](https://mp.weixin.qq.com/s/8rbp-f1j8kz8XDxpAiSLvA?tdsourcetag=s_pcqq_aiomsg)
+
+## CMD 使用
+### 生成项目树
+#### 在要生成的文件夹中 shift+鼠标右键打开cmd，输入tree /f，然后复制项目树就行
