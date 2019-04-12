@@ -76,7 +76,88 @@ categories:
 
 [在线gif制作工具](http://www.matools.com/gif)
 
+[iconmoon](https://icomoon.io/app/#/select)	
+这是一个图标库，可以将.svg文件商城字体图标并应用		
+下面是制作字体的步骤：	
+![图片](iconmoon1.png)
+![图片](iconmoon2.png)
+![图片](iconmoon3.png)	
+将下载的包解压，将fonts文件放到你的项目中
+![图片](iconmoon4.png)
 
+## Vue开发相关工具和第三方库
+### Axios	
+[npm安装及使用](https://www.kancloud.cn/yunye/axios/234845)	
+#### 使用方法与步骤	
+1.npm install axios		
+2.执行GET请求		
+```
+// 为给定 ID 的 user 创建请求
+axios.get('/user?ID=12345')
+  .then(function (response) {
+    console.log(response);
+  })
+  .catch(function (error) {
+    console.log(error);
+  });
+
+// 可选地，上面的请求可以这样做
+axios.get('/user', {
+    params: {
+      ID: 12345
+    }
+  })
+  .then(function (response) {
+    console.log(response);
+  })
+  .catch(function (error) {
+    console.log(error);
+  });
+  ```
+
+3. 执行POST请求
+```
+axios.post('/user', {
+    firstName: 'Fred',
+    lastName: 'Flintstone'
+  })
+  .then(function (response) {
+    console.log(response);
+  })
+  .catch(function (error) {
+    console.log(error);
+  });
+```
+4.执行多个并发请求	
+
+```
+function getUserAccount() {
+  return axios.get('/user/12345');
+}
+
+function getUserPermissions() {
+  return axios.get('/user/12345/permissions');
+}
+
+axios.all([getUserAccount(), getUserPermissions()])
+  .then(axios.spread(function (acct, perms) {
+    // 两个请求现在都执行完成
+  }));
+```
+### better-scroll 
+[参考链接](https://github.com/ustbhuangyi/better-scroll/blob/master/README_zh-CN.md)
+##### better-scroll 是一款重点解决移动端（现已支持 PC 端）各种滚动场景需求的插件。它的核心是借鉴的 iscroll 的实现，它的 API 设计基本兼容 iscroll，在 iscroll 的基础上又扩展了一些 feature 以及做了一些性能优化
+#### 使用步骤
+* npm install better-scroll
+* import BScroll from 'better-scroll'		
+```
+import BScroll from 'better-scroll'
+let wrapper = document.querySelector('.wrapper')
+let scroll = new BScroll(wrapper)
+```
+### Vuex	
+### 使用步骤		
+[vuex](https://vuex.vuejs.org/zh/guide/)
 ## PS使用
 ### 快捷键
 > Ctrl + h 显示/隐藏参考线     
