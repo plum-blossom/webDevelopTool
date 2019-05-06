@@ -182,3 +182,7 @@ let scroll = new BScroll(wrapper)
 ## CMD 使用
 ### 生成项目树
 #### 在要生成的文件夹中 shift+鼠标右键打开cmd，输入tree /f，然后复制项目树就行
+## 游戏开发
+### 工具
+![图片](gamePro1.png)		
+![图片](gamePro2.png)		
