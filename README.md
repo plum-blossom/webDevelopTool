@@ -186,3 +186,5 @@ let scroll = new BScroll(wrapper)
 ### 工具
 ![图片](gamePro1.png)		
 ![图片](gamePro2.png)		
+### 文档
+[白鹭开发者中心](http://developer.egret.com/cn/)	
