@@ -56,7 +56,40 @@ categories:
 ![图片描述文字](fangdajing2.png)
 
 [demo3](http://www.jq22.com/demo/jQueryJpg201708110048/)
-![图片描述文字](fangdajing3.png)
+![图片描述文字](fangdajing3.png)	
+
+### 懒加载插件
+[参考链接](https://www.npmjs.com/package/lazy-load-img)
+#### 使用方法
+```
+var lazyLoadImg = new LazyLoadImg({
+	el: ul,    // dom元素下的图片
+	mode: 'diy',    // 模式: 默认/自定义
+	time: 300,    // 多长时间重新监听一次
+	complete: true,    // 完成后自己销毁程序
+	position: {    // 只要其中一个位置符合条件，都会触发加载机制
+			top: 0,    // 元素距离顶部
+			left: 0,    // 元素距离右边
+			right: 0,    // 元素距离下面
+			bottom: 0    // 元素距离左边
+	},
+	diy: { //设置图片剪切规则，diy模式时才有效果
+			backgroundSize: 'cover',
+			backgroundRepeat: 'no-repeat',
+			backgroundPosition: 'center center'
+	},
+	before: function() {
+
+	},
+	success: function(el) {
+			el.classList.add('success');
+	},
+	error: function(el) {
+			el.src = './images/error.png';
+	}
+});
+```
+#### 实例参考（lazy-load-img文件夹）
 ### 红包雨特效		
 [demo](http://www.jq22.com/demo/jqueryhby201811150953/)		
 ![图片描述文字](hongbao1.png)

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>懒加载使用demo</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<link href="" rel="stylesheet">
+<style>
+	ul li{list-style: none;}
+</style>
+</head>
+<body>
+    <ul id="list"></ul>
+    <script src="lazy-load-img.min.js"></script>
+    <script>
+    	// 生成li
+        var ul = document.querySelector('#list');
+        for (var i = 1; i <= 8; i++) {
+            var li = document.createElement('li');
+            li.innerHTML = `<img src="./images/default.png" data-src="./images/${i}.jpg">`;
+            ul.appendChild(li);
+        };
+
+        var lazyLoadImg = new LazyLoadImg({
+            el: ul,    // dom元素下的图片
+            mode: 'diy',    // 模式: 默认/自定义
+            time: 300,    // 多长时间重新监听一次
+            complete: true,    // 完成后自己销毁程序
+            position: {    // 只要其中一个位置符合条件，都会触发加载机制
+                top: 0,    // 元素距离顶部
+                left: 0,    // 元素距离右边
+                right: 0,    // 元素距离下面
+                bottom: 0    // 元素距离左边
+            },
+            diy: { //设置图片剪切规则，diy模式时才有效果
+                backgroundSize: 'cover',
+                backgroundRepeat: 'no-repeat',
+                backgroundPosition: 'center center'
+            },
+            before: function() {
+
+            },
+            success: function(el) {
+                el.classList.add('success');
+            },
+            error: function(el) {
+                el.src = './images/error.png';
+            }
+        });
+
+        // lazyLoadImg.start() // 开启懒加载程序
+        // lazyLoadImg.destroy() // 销毁图片懒加载程序
+        // lazyLoadImg.restart() // 销毁后又可以重新开启懒加载程序
+    </script>
+</body>
+</html>
