@@ -42,7 +42,7 @@ categories:
 [Babel](https://babeljs.io/docs/en/)	
 >Babel是一个工具链，主要用于将ECMAScript 2015+代码转换为当前和旧版浏览器或环境中的向后兼容版本的JavaScript		
 
-## jQuery插件
+## 第三方库
 ### jQuery左右箭头和鼠标控制的板块滚动
 [demo](http://www.jq22.com/demo/jQuery-hk-150407214616/)
 ![图片描述文字](leftrightMove.png)
@@ -98,6 +98,15 @@ var lazyLoadImg = new LazyLoadImg({
 [elevateZoom中文文档](https://www.myfreax.com/elevatezoom-image-zoom/)  
 [demo](https://demo.demohuo.top/jquery/5/521/demo/)
 ![图片描述文字](imgsuofang.png)
+
+## 日期处理库
+### JavaScript 日期处理类库
+[momentjs](http://momentjs.cn/)		
+![图片](momentjs.png)		
+
+## 可视化工具		
+#### ECharts，一个使用 JavaScript 实现的开源可视化库，可以流畅的运行在 PC 和移动设备上，兼容当前绝大部分浏览器（IE8/9/10/11，Chrome，Firefox，Safari等），底层依赖轻量级的矢量图形库 ZRender，提供直观，交互丰富，可高度个性化定制的数据可视化图表。
+[echarts](https://www.echartsjs.com/index.html)
 ## 兼容
 ### IE6-8不支持CSS3 Media Queries解决：https://www.bootcdn.cn/respond.js/
 ### IE9以下不支持h5解决：
