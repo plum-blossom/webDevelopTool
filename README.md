@@ -210,7 +210,7 @@ let scroll = new BScroll(wrapper)
 [vuex](https://vuex.vuejs.org/zh/guide/)
 ## PS使用
 ### 快捷键
-> Ctrl + h 显示/隐藏参考线     
+> Ctrl + h 显示/隐藏参考线      
 > Alt + 鼠标 缩放     
 > 空格 + 鼠标 移动        
 > 新建图形文件【Ctrl】+【N】     
@@ -228,16 +228,16 @@ let scroll = new BScroll(wrapper)
 
 ## HBuilder使用
 ### 快捷键
-> ctrl+shift+d 插入选区或当前行		
-> ctrl+r 运行		
-> ctrl+alt+e,alt+f3 选择所有相同词		
-> ctrl+enter 直接从当前行末尾回车后跳转到下一行		
-> Ctrl + Shift + Enter        将光标定位在上一行		
-> Ctrl + F4                   关闭		
-> Ctrl + Shift + F4           全部关闭		
-> Ctrl + H                    全局搜索		
-> Ctrl + T                    查找资源文件		
-> Ctrl + D										删除当前行		
+> ctrl+shift+d 插入选区或当前行		      
+> ctrl+r 运行		   
+> ctrl+alt+e,alt+f3 选择所有相同词		  
+> ctrl+enter 直接从当前行末尾回车后跳转到下一行	  	
+> Ctrl + Shift + Enter        将光标定位在上一行		  
+> Ctrl + F4                   关闭		  
+> Ctrl + Shift + F4           全部关闭		  
+> Ctrl + H                    全局搜索		  
+> Ctrl + T                    查找资源文件		  
+> Ctrl + D										删除当前行		   
 ## 前端面试准备
 ### 参考链接
 [前端面试知识点目录整理](https://mp.weixin.qq.com/s/8rbp-f1j8kz8XDxpAiSLvA?tdsourcetag=s_pcqq_aiomsg)
