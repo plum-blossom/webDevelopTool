@@ -134,8 +134,10 @@ var lazyLoadImg = new LazyLoadImg({
 ### Axios	
 [npm安装及使用](https://www.kancloud.cn/yunye/axios/234845)	
 #### 使用方法与步骤	
-1.npm install axios		
-2.执行GET请求		
+1.npm install axios	
+	
+2.执行GET请求
+		
 ```
 // 为给定 ID 的 user 创建请求
 axios.get('/user?ID=12345')
@@ -158,9 +160,10 @@ axios.get('/user', {
   .catch(function (error) {
     console.log(error);
   });
-  ```
+```
 
 3. 执行POST请求
+
 ```
 axios.post('/user', {
     firstName: 'Fred',
@@ -173,6 +176,7 @@ axios.post('/user', {
     console.log(error);
   });
 ```
+
 4.执行多个并发请求	
 
 ```
@@ -200,6 +204,7 @@ import BScroll from 'better-scroll'
 let wrapper = document.querySelector('.wrapper')
 let scroll = new BScroll(wrapper)
 ```
+
 ### Vuex	
 ### 使用步骤		
 [vuex](https://vuex.vuejs.org/zh/guide/)
@@ -219,7 +224,20 @@ let scroll = new BScroll(wrapper)
 > 通过剪切建立一个图层 【Ctrl】+【Shift】+【J】     
 > ctrl+d-取消选定区域     
 > ctrl+w-关闭文件     
-> ctrl+Q-退出ps     
+> ctrl+Q-退出ps 
+
+## HBuilder使用
+### 快捷键
+> ctrl+shift+d 插入选区或当前行		
+> ctrl+r 运行		
+> ctrl+alt+e,alt+f3 选择所有相同词		
+> ctrl+enter 直接从当前行末尾回车后跳转到下一行		
+> Ctrl + Shift + Enter        将光标定位在上一行		
+> Ctrl + F4                   关闭		
+> Ctrl + Shift + F4           全部关闭		
+> Ctrl + H                    全局搜索		
+> Ctrl + T                    查找资源文件		
+> Ctrl + D										删除当前行		
 ## 前端面试准备
 ### 参考链接
 [前端面试知识点目录整理](https://mp.weixin.qq.com/s/8rbp-f1j8kz8XDxpAiSLvA?tdsourcetag=s_pcqq_aiomsg)
