@@ -35,6 +35,22 @@ categories:
 [汉字拼音转换](https://www.npmjs.com/package/pinyin)	
 [Bootstrap可视化布局系统](http://www.bootcss.com/p/layoutit/)	
 [常用的HTML和CSS content属性特殊字符归纳](https://blog.csdn.net/zx562602419/article/details/81020342)	
+[验证码插件Verify](https://veui.net/)  
+> 开源，免费的验证码插件，自适应兼容移动端！			
+
+[swiper](https://2.swiper.com.cn/)		
+> Swiper常用于移动端网站的内容触摸滑动
+
+[基于HTML5 canvas圆形倒计时器jQuery插件效果演示](http://www.htmleaf.com/Demo/201502111367.html)
+> 这是一款基于html5 canvas的圆形倒计时器jQuery插件。它可以使你非常轻松的创建圆形的倒计时器。该jQuery倒计时器插件有12种themes，它们基于 HTML5 canvas 来渲染各种圆环。
+
+[html5视频背景插件vidbacking](http://demo.htmleaf.com/1707/201707251501/index.html)
+> vidbacking是一款响应式的，跨平台的html5视频背景插件。该视频背景插件允许你在页面中的某个div后整个页面中使用HTML5视频作为背景
+
+[17种基于mo.js制作的炫酷图标动画特效](http://www.htmleaf.com/html5/SVG/201602243142.html)
+> 这是一款基于mo.js制作的一组炫酷图标动画特效。这组图标动画共有17种效果，它们使用font-awesome作为图标，采用SVG技术，在用户点击图标时产生各种炫酷的图标动画特效
+
+
 ## 缓存	
 [storage](https://github.com/ustbhuangyi/storage)	
 
@@ -251,3 +267,13 @@ let scroll = new BScroll(wrapper)
 ![图片](gamePro2.png)		
 ### 文档
 [白鹭开发者中心](http://developer.egret.com/cn/)	
+
+## 游戏开发之Cocos Creator
+### 记录
+1. 安装Cocos Creator，[官网下载地址](https://www.cocos.com/creator)，默认安装在C盘就行，其他位置会报错。		
+2. [开发文档](https://docs.cocos.com/creator/manual/zh/)
+3. 创建UI节点之Layout布局，实现子节点排列
+![图片](layout排列子节点.png)
+4. UI组件ScrollView
+
+ 
