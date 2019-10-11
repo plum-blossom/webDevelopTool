@@ -25,6 +25,7 @@ categories:
 * [在线生成指定大小、格式(支持webp)的图片](http://www.bejson.com/ui/imagehandler/)	
 * [在线图片格式转换](http://www.bejson.com/convert/picture_format/)	
 * [Html/MarkDown互转工具](http://www.bejson.com/convert/html2markdown/)	
+* [在线gif制作工具](http://www.matools.com/gif)
 
 ## CSS在线工具
 [阴影](https://testdrive-archive.azurewebsites.net/Graphics/hands-on-css3/hands-on_box-shadow.htm)	
@@ -40,15 +41,26 @@ categories:
 
 [swiper](https://2.swiper.com.cn/)		
 > Swiper常用于移动端网站的内容触摸滑动
+> ![图片](swiper.png)
 
 [基于HTML5 canvas圆形倒计时器jQuery插件效果演示](http://www.htmleaf.com/Demo/201502111367.html)
 > 这是一款基于html5 canvas的圆形倒计时器jQuery插件。它可以使你非常轻松的创建圆形的倒计时器。该jQuery倒计时器插件有12种themes，它们基于 HTML5 canvas 来渲染各种圆环。
+> ![图片](time.png)
 
 [html5视频背景插件vidbacking](http://demo.htmleaf.com/1707/201707251501/index.html)
 > vidbacking是一款响应式的，跨平台的html5视频背景插件。该视频背景插件允许你在页面中的某个div后整个页面中使用HTML5视频作为背景
+> ![图片](vidbacking.png)
 
 [17种基于mo.js制作的炫酷图标动画特效](http://www.htmleaf.com/html5/SVG/201602243142.html)
 > 这是一款基于mo.js制作的一组炫酷图标动画特效。这组图标动画共有17种效果，它们使用font-awesome作为图标，采用SVG技术，在用户点击图标时产生各种炫酷的图标动画特效
+> ![图片](mo.png)
+
+[jTopo](http://www.jtopo.com/index.html)
+> 是一款完全基于HTML5 Canvas的关系、拓扑图形化界面开发工具包。
+> jTopo关注于数据的图形展示，它是面向开发人员的，需要进行二次开发。
+> 使用jTopo很简单，可以快速创建一些关系图、拓扑等相关图形化的展示。只要您的数据之间存在有关联关系，都可以使用jTopo来进行人性化、图形化的展示。
+> jTopo的目标：1.简单好用 2.灵活扩展 3.轻松开发出类似Visio、在线脑图、UML建模等类似工具 4.为大数据可视化提供解决方案  
+![图片描述文字](jTopo_demo_img.png)
 
 
 ## 缓存	
@@ -135,8 +147,8 @@ var lazyLoadImg = new LazyLoadImg({
 ### 前端开发工具辅助总卷：https://www.jianshu.com/p/6e635191205a
 ### Markdown 语法整理大集合2017 - 简书：https://www.jianshu.com/p/b03a8d7b1719
 
-[在线gif制作工具](http://www.matools.com/gif)
 
+## 图标库
 [iconmoon](https://icomoon.io/app/#/select)	
 这是一个图标库，可以将.svg文件商城字体图标并应用		
 下面是制作字体的步骤：	
