@@ -26,7 +26,7 @@ categories:
 * [在线图片格式转换](http://www.bejson.com/convert/picture_format/)	
 * [Html/MarkDown互转工具](http://www.bejson.com/convert/html2markdown/)	
 * [在线gif制作工具](http://www.matools.com/gif)
-
+* [Web酷炫特效在线地址](http://gnipbao.github.io/h5-test/menu.html);
 ## CSS在线工具
 [阴影](https://testdrive-archive.azurewebsites.net/Graphics/hands-on-css3/hands-on_box-shadow.htm)	
 [圆角](https://testdrive-archive.azurewebsites.net/Graphics/hands-on-css3/hands-on_box-shadow.htm)	
