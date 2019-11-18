@@ -65,7 +65,8 @@ categories:
 ![图片描述文字](jTopo_demo_img.png)
 
 [大屏可视化界面](http://www.jq22.com/yanshi21708)	
-> 基于echarts的大数据页面	
+> 基于echarts的大数据页面
+
 > ![图片](http://assets.jq22.com/plugin/2019-06-09-16-38-05.png)
 
 [大屏页面参考链接](http://www.bootstrapmb.com/tag/dapingmu) http://www.bootstrapmb.com/tag/dapingmu
