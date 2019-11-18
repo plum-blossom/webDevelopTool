@@ -64,7 +64,11 @@ categories:
 > jTopo的目标：1.简单好用 2.灵活扩展 3.轻松开发出类似Visio、在线脑图、UML建模等类似工具 4.为大数据可视化提供解决方案  
 ![图片描述文字](jTopo_demo_img.png)
 
+[大屏可视化界面](http://www.jq22.com/yanshi21708)
+> 基于echarts的大数据页面
+> ![图片](http://assets.jq22.com/plugin/2019-06-09-16-38-05.png)
 
+[大屏页面参考链接](http://www.bootstrapmb.com/tag/dapingmu)
 ## 缓存	
 [storage](https://github.com/ustbhuangyi/storage)	
 
